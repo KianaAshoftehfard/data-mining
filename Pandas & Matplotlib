@@ -1,0 +1,23 @@
+# Pandas and Matplotlib
+
+This notebook contains conceptual examples and practical exercises for learning **Pandas** and **Matplotlib** in Python.
+
+It introduces the basic concepts of working with data using Pandas and creating different types of visualizations using Matplotlib. The examples are designed to provide a simple and practical understanding of these libraries for data mining and data analysis.
+
+## References
+
+### Books
+
+* Grus, J. (2019). *Data Science from Scratch: First Principles with Python*. O'Reilly Media.
+* McKinney, W. (2013). *Python for Data Analysis*. O'Reilly Media.
+
+### Online Resources
+
+* Kaggle — Seaborn Tips Dataset
+  https://www.kaggle.com/datasets/ranjeetjain3/seaborn-tips-dataset
+
+* GeeksforGeeks — Matplotlib Tutorial
+  https://www.geeksforgeeks.org/python/matplotlib-tutorial/
+
+* GeeksforGeeks — Pandas Tutorial
+  https://www.geeksforgeeks.org/pandas/pandas-tutorial/
